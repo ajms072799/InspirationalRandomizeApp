@@ -24,3 +24,12 @@ body .homepage-container .homepage-container__header h1 {
     font-size: 45px;
     padding-top: 10px;
 }
+
+body .homepage-container .homepage-container__header h2 {
+    font-size: 18px;
+    color: #fff;
+}
+
+body .homepage-container .homepage-container__header h2:hover {
+    font-size: 30px;
+}
