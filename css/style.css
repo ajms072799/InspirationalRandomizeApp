@@ -15,3 +15,7 @@ body .homepage-container {
     background-color: #fc4a1a;
     border-radius: 5% 5% 0 0;
 }
+
+body .homepage-container h1,h2 {
+    text-align: center;
+}
