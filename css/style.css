@@ -19,3 +19,8 @@ body .homepage-container {
 body .homepage-container .homepage-container__header h1,h2 {
     text-align: center;
 }
+
+body .homepage-container .homepage-container__header h1 {
+    font-size: 45px;
+    padding-top: 10px;
+}
