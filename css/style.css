@@ -16,6 +16,6 @@ body .homepage-container {
     border-radius: 5% 5% 0 0;
 }
 
-body .homepage-container h1,h2 {
+body .homepage-container .homepage-container__header h1,h2 {
     text-align: center;
 }
