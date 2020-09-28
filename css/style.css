@@ -21,6 +21,12 @@ body .homepage-container .homepage-container__user {
     padding-left: 10px;
 }
 
+body .homepage-container .homepage-container__quotes {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
 body .homepage-container .homepage-container__header h1,h2 {
     text-align: center;
 }
