@@ -109,4 +109,5 @@ let quotes = [
 let randomNumber = Math.floor(Math.random()*quotes.length); //! variable random number getting the random number from quotes list/array
 let todayQuotes = quotes[randomNumber]; //!  from random number now we will getting the result of random number from the array list
 
-document.write("<h2 class='homepage-container__user'>Good Day! " + username + ",</h2>");
+document.write("<h2 class='homepage-container__user'>Good Day! " + username + ",</h2>"); //! displaying the username into homepage
+document.write("<p class='homepage-container__quotes'>"+ todayQuotes +"</p>"); //! Displaying the quotes from the array list.
