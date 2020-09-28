@@ -106,5 +106,6 @@ let quotes = [
     "A man can be as great as he wants to be. If you believe in yourself and have the courage, the determination, the dedication, the competitive drive and if you are willing to sacrifice the little things in life and pay the price for the things that are worthwhile, it can be done."
 ];
 
-let randomNumber = Math.floor(Math.random()*quotes.length); // ! variable random number getting the random number from quotes list/array
+let randomNumber = Math.floor(Math.random()*quotes.length); //! variable random number getting the random number from quotes list/array
+let todayQuotes = quotes[randomNumber]; //!  from random number now we will getting the result of random number from the array list
 
